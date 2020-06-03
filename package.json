@@ -1,0 +1,28 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "challenge submission",
+  "main": "submit.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "base-64": "^0.1.0",
+    "node-fetch": "^2.6.0",
+    "utf8": "^3.0.0",
+    "otplib": "^12.0.0-3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anguandia/challenge_submission.git"
+  },
+  "author": "Anguandia Mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anguandia/challenge_submission/issues"
+  },
+  "homepage": "https://github.com/Anguandia/challenge_submission#readme"
+}
